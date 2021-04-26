@@ -1,0 +1,7 @@
+MYSQL_ROOT_PASSWORD=password
+MYSQL_USER=campusflora
+MYSQL_PASSWORD=password
+MYSQL_DATABASE=campusflora
+RAILS_ENV: production
+RAILS_LOG_TO_STDOUT: 1
+SECRET_KEY_BASE: 
